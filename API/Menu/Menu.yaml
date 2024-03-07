@@ -1,0 +1,15 @@
+- name: Authors
+  icon: fa-user
+  items:
+    - name: Manage Authors
+      description: Author management and administration.
+      route: /authors
+      icon: fa-user
+
+- name: Books
+  icon: fa-book
+  items:    
+    - name: Manage Books
+      description: Book management and administration.
+      route: /books
+      icon: fa-book-open

@@ -1,0 +1,7 @@
+- FieldName: UserId
+  DataType: guid
+  Required: false
+- FieldName: RefershToken
+  DataType: string
+  Required: false
+  Length: 255
